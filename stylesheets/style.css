@@ -1,0 +1,12 @@
+*{
+font-family: monospace;
+}
+
+img{
+	width: 25%;
+}
+
+#wrapper{
+	margin: auto;
+	width: 45%;
+}
